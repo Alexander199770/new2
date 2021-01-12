@@ -462,3 +462,47 @@ http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29658.m3u8
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29655.m3u8
 #EXTINF:-1 tvg-id="WARNER CHANNEL *HD" tvg-name="WARNER CHANNEL *LQ" tvg-logo="https://allserieslinamarcela.files.wordpress.com/2008/10/8339_logo_warnerchannel.jpg" group-title="CANALES LITE",WARNER CHANNEL *LQ
 http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29609.m3u8
+#EXTINF:-1 tvg-id="Novelas in 5 Minutos" tvg-name="Novelas in 5 Minutos" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/75_es.png" group-title="USA LATINO",Novelas in 5 Minutos
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5890.m3u8
+#EXTINF:-1 tvg-id="Telemundo Denver" tvg-name="Telemundo Atlanta" tvg-logo="" group-title="USA LATINO",Telemundo Atlanta
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27592.m3u8
+#EXTINF:-1 tvg-id="Telemundo Boston" tvg-name="Telemundo Boston" tvg-logo="" group-title="USA LATINO",Telemundo Boston
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/357.m3u8
+#EXTINF:-1 tvg-id="Telemundo Chicago" tvg-name="Telemundo Chicago" tvg-logo="" group-title="USA LATINO",Telemundo Chicago
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/356.m3u8
+#EXTINF:-1 tvg-id="Telemundo Dallas" tvg-name="Telemundo Dallas" tvg-logo="" group-title="USA LATINO",Telemundo Dallas
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/355.m3u8
+#EXTINF:-1 tvg-id="Telemundo Denver" tvg-name="Telemundo Denver" tvg-logo="" group-title="USA LATINO",Telemundo Denver
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/354.m3u8
+#EXTINF:-1 tvg-id="Telemundo Fresno" tvg-name="Telemundo Fresno" tvg-logo="" group-title="USA LATINO",Telemundo Fresno
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/353.m3u8
+#EXTINF:-1 tvg-id="Telemundo Harlingen" tvg-name="Telemundo Harlingen" tvg-logo="" group-title="USA LATINO",Telemundo Harlingen
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/352.m3u8
+#EXTINF:-1 tvg-id="Telemundo Houston" tvg-name="Telemundo Houston" tvg-logo="" group-title="USA LATINO",Telemundo Houston
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/351.m3u8
+#EXTINF:-1 tvg-id="Telemundo *HD" tvg-name="Telemundo Internacional" tvg-logo="" group-title="USA LATINO",Telemundo Internacional
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27842.m3u8
+#EXTINF:-1 tvg-id="Telemundo Las Vegas" tvg-name="Telemundo Las Vegas" tvg-logo="" group-title="USA LATINO",Telemundo Las Vegas
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/350.m3u8
+#EXTINF:-1 tvg-id="Telemundo Los Angeles" tvg-name="Telemundo Los Angeles" tvg-logo="" group-title="USA LATINO",Telemundo Los Angeles
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/349.m3u8
+#EXTINF:-1 tvg-id="Telemundo Miami" tvg-name="Telemundo Miami" tvg-logo="" group-title="USA LATINO",Telemundo Miami
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/348.m3u8
+#EXTINF:-1 tvg-id="Telemundo New York" tvg-name="Telemundo New York" tvg-logo="" group-title="USA LATINO",Telemundo New York
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/347.m3u8
+#EXTINF:-1 tvg-id="Telemundo Orlando *FHD" tvg-name="Telemundo Orlando" tvg-logo="" group-title="USA LATINO",Telemundo Orlando
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/27185.m3u8
+#EXTINF:-1 tvg-id="Telemundo Philadelphia" tvg-name="Telemundo Philadelphia" tvg-logo="" group-title="USA LATINO",Telemundo Philadelphia
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/346.m3u8
+#EXTINF:-1 tvg-id="Telemundo Phoenix" tvg-name="Telemundo Phoenix" tvg-logo="" group-title="USA LATINO",Telemundo Phoenix
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/345.m3u8
+#EXTINF:-1 tvg-id="Telemundo San Antonio" tvg-name="Telemundo San Antonio" tvg-logo="" group-title="USA LATINO",Telemundo San Antonio
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/344.m3u8
+#EXTINF:-1 tvg-id="Telemundo San francisco" tvg-name="Telemundo San francisco" tvg-logo="" group-title="USA LATINO",Telemundo San francisco
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/343.m3u8
+#EXTINF:-1 tvg-id="Telemundo Tucson" tvg-name="Telemundo Tucson" tvg-logo="" group-title="USA LATINO",Telemundo Tucson
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/342.m3u8
+#EXTINF:-1 tvg-id="Telemundo Washington" tvg-name="Telemundo Washington" tvg-logo="" group-title="USA LATINO",Telemundo Washington
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/19133.m3u8
+#EXTINF:-1 tvg-id="Uforia Debut" tvg-name="Uforia Debut" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/73_es.png" group-title="USA LATINO",Uforia Debut
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/5892.m3u8
